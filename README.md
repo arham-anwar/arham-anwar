@@ -1,7 +1,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 200px; margin-right: 20px;">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 100px; margin-right: 10px;">
     </td>
     <td style="vertical-align: top;">
       <p>👋 Hello / Bonjour, I'm Arham! </p>
