@@ -18,11 +18,17 @@
         <li><strong>Data Visualization:</strong> Turning data into stories with Tableau, Power BI, Streamlit, and Plotly</li>
         <li><strong>Text & Social Media Analytics:</strong> Making sense of text with NLP, Sentiment analysis, Topic modeling</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h2>🧰 My Toolbox</h2>
       <ul>
         <li><strong>Languages:</strong> Python, R, SQL, Bash scripting, Julia, Scala</li>
         <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, Azure SDK, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, Transformers (Hugging Face)</li>
       </ul>
+    </td>
+    <td>
       <h2>📜 Certified Data Nerd</h2>
       <ul>
         <li>Azure Data Science Associate (DP100)</li>
@@ -32,10 +38,4 @@
       <h2>🌱 Let's Connect!</h2>
       <p>I'm always on the lookout for cool ML projects and love collaborating with fellow data enthusiasts. Got a project that needs some data wizardry—or just want to chat about the latest tech trends? Drop me a line!</p>
       <div>
-        <a href="https://www.linkedin.com/in/arham-anwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arham_Anwar-blue" alt="LinkedIn"></a>
-        <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-YourUsername-black" alt="GitHub"></a>
-        <a href="mailto:arham.anwar@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-arham.anwar@example.com-red" alt="Email"></a>
-      </div>
-    </td>
-  </tr>
-</table>
+        <a href="https://www.linkedin.com/in/arham-anwar/" target="_blank"><img src="https://img
