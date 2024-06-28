@@ -25,16 +25,16 @@
   </tr>
 </table>
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 80%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; word-wrap: break-word; overflow-wrap: break-word;">
       <h2>🧰 My Toolbox</h2>
       <ul>
         <li><strong>Languages:</strong> Python, R, SQL, Bash scripting, Julia, Scala</li>
         <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, Azure SDK, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, Transformers (Hugging Face)</li>
       </ul>
     </td>
-    <td style="width: 20%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: top; word-wrap: break-word; overflow-wrap: break-word;">
       <h2>📜 Certified Data Nerd</h2>
       <ul>
         <li>Azure Data Science Associate (DP100)</li>
@@ -44,9 +44,9 @@
     </td>
   </tr>
 </table>
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="word-wrap: break-word; overflow-wrap: break-word;">
       <p>I'm always on the lookout for cool ML projects and love collaborating with fellow data enthusiasts. Got a project that needs some data wizardry—or just want to chat about the latest tech trends? Drop me a line!</p>
       <div>
         <a href="https://www.linkedin.com/in/arhamanwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arham_Anwar-blue" alt="LinkedIn"></a>
@@ -55,4 +55,6 @@
     </td>
   </tr>
 </table>
+
+
 
