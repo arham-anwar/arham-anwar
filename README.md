@@ -1,5 +1,4 @@
-Hello/Bonjour, it's Arham! :relaxed: **Check my portfolio <a href="(https://arham-anwar.github.io/)">HERE!</a>**
-# 👋 Hey there, I'm Arham Anwar!
+# 👋 Hello / Bonjour, I'm Arham!
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
