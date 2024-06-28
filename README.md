@@ -1,17 +1,19 @@
-
+# 👋 Hello / Bonjour, I'm Arham!
 
 <table>
   <tr>
-    <td>
-      <h1> 👋 Hello / Bonjour, I'm Arham! </h1>
-      <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
-    </td>
     <td style="vertical-align: top;">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 200px; margin-right: 20px;">
     </td>
+    <td>
+      <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
+    </td>
   </tr>
+</table>
+
+<table style="width: 100%;">
   <tr>
-    <td colspan="2">
+    <td>
       <h2>🛠 What I Tinker With</h2>
       <ul>
         <li><strong>Descriptive Analytics:</strong> Unveiling hidden patterns with EDA, Clustering, and Anomaly detection</li>
@@ -25,15 +27,18 @@
       </ul>
     </td>
   </tr>
+</table>
+
+<table style="width: 100%;">
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <h2>🧰 My Toolbox</h2>
       <ul>
         <li><strong>Languages:</strong> Python, R, SQL, Bash scripting, Julia, Scala</li>
         <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, Azure SDK, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, Transformers (Hugging Face)</li>
       </ul>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <h2>📜 Certified Data Nerd</h2>
       <ul>
         <li>Azure Data Science Associate (DP100)</li>
