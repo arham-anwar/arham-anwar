@@ -42,12 +42,10 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h2>🌱 Let's Connect!</h2>
       <p>I'm always on the lookout for cool ML projects and love collaborating with fellow data enthusiasts. Got a project that needs some data wizardry—or just want to chat about the latest tech trends? Drop me a line!</p>
       <div>
-        <a href="https://www.linkedin.com/in/arham-anwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arham_Anwar-blue" alt="LinkedIn"></a>
-        <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-YourUsername-black" alt="GitHub"></a>
-        <a href="mailto:arham.anwar@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-arham.anwar@example.com-red" alt="Email"></a>
+        <a href="(https://www.linkedin.com/in/arhamanwar/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arham_Anwar-blue" alt="LinkedIn"></a>
+        <a href="mailto:arhamanwar.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-arham.anwar@example.com-red" alt="Email"></a>
       </div>
     </td>
   </tr>
