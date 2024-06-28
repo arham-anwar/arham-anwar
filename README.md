@@ -1,12 +1,17 @@
-# 👋 Hello / Bonjour, I'm Arham!
+
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 200px; margin-right: 20px;">
     </td>
     <td>
+      <h1> 👋 Hello / Bonjour, I'm Arham! </h1>
       <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <h2>🛠 What I Tinker With</h2>
       <ul>
         <li><strong>Descriptive Analytics:</strong> Unveiling hidden patterns with EDA, Clustering, and Anomaly detection</li>
@@ -35,7 +40,17 @@
         <li>Apache Spark Fundamentals</li>
         <li>Databricks Lakehouse Fundamentals</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <h2>🌱 Let's Connect!</h2>
       <p>I'm always on the lookout for cool ML projects and love collaborating with fellow data enthusiasts. Got a project that needs some data wizardry—or just want to chat about the latest tech trends? Drop me a line!</p>
       <div>
-        <a href="https://www.linkedin.com/in/arham-anwar/" target="_blank"><img src="https://img
+        <a href="https://www.linkedin.com/in/arham-anwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arham_Anwar-blue" alt="LinkedIn"></a>
+        <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-YourUsername-black" alt="GitHub"></a>
+        <a href="mailto:arham.anwar@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-arham.anwar@example.com-red" alt="Email"></a>
+      </div>
+    </td>
+  </tr>
+</table>
