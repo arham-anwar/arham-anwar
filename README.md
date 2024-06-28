@@ -1,8 +1,9 @@
 # 👋 Hello / Bonjour, I'm Arham!
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 200px; margin-right: 20px;">
+  <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
+</div>
 
 ## 🛠 What I Tinker With
 - **Descriptive Analytics:** Unveiling hidden patterns with EDA, Clustering, and Anomaly detection
