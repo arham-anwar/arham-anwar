@@ -31,13 +31,13 @@
       <h2>🧰 My Toolbox</h2>
       <ul>
         <li><strong>Languages:</strong> Python, R, SQL, Bash scripting, Julia, Scala</li>
-        <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, Azure SDK, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, Transformers (Hugging Face)</li>
+        <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, Azure SDK v2, <br> Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, <br> Transformers (Hugging Face)</li>
       </ul>
     </td>
     <td style="width: 50%; vertical-align: top; word-wrap: break-word; overflow-wrap: break-word;">
       <h2>📜 Certified Data Nerd</h2>
       <ul>
-        <li>Azure Data Science Associate (DP100)</li>
+        <li>Microsoft Azure Data Science Associate (DP100)</li>
         <li>Apache Spark Fundamentals</li>
         <li>Databricks Lakehouse Fundamentals</li>
       </ul>
