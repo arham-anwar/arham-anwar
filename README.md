@@ -31,7 +31,7 @@
       <h2>🧰 My Toolbox</h2>
       <ul>
         <li><strong>Languages:</strong> Python, R, SQL, Bash scripting, Julia, Scala</li>
-        <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, <br> Azure SDK v2, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, <br> Transformers (Hugging Face)</li>
+        <li><strong>Frameworks & Libraries:</strong> PyTorch Lightning, MLFlow, <br> Azure SDK v2, Firebase, Streamlit, Keras, Scikit-learn, NLTK, SpaCy, Transformers (Hugging Face)</li>
       </ul>
     </td>
     <td style="width: 50%; vertical-align: top; word-wrap: break-word; overflow-wrap: break-word;">
