@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top;">
       <h1>👋 Hello / Bonjour, I'm Arham! </h1>
-      <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
+      <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. <br> These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
     </td>
     <td style="vertical-align: top;">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 150px; margin-right: 20px;">
