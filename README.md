@@ -1,7 +1,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top;">
-      <h1>👋 Hello / Bonjour, I'm Arham! </h1>
+      <h1>👋 Hello / Bonjour, I'm Arham! Pls checkout my data science portfolio here : arham-anwar.github.io </h1>
       <p>I'm a Machine Learning enthusiast with a couple of years in management consulting. <br> These days, I'm having a blast diving deep into data science at McGill University's Master in Management Analytics program. Currently, I'm doing some fun ML coding at Aldo Group. 🥾</p>
     </td>
     <td style="vertical-align: top;">
