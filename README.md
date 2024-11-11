@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top;">
       <h1>👋 Hello / Bonjour, I'm Arham! (<a href="https://arham-anwar.github.io">Click for Portfolio</a>) </h1>
-      <p>I'm a Data Scientist at SAP, where I contribute to the development of globally impactful Supply Chain Products packaged within SAP Product libraries. I previously completed my Master’s in Management Analytics from McGill University & worked at Aldo Group's AI Team </p>
+      <p>I'm a Data Scientist at SAP, where I contribute to the development of globally impactful Supply Chain Products packaged within SAP Product AI libraries. I previously completed my Master’s in Management Analytics from McGill University & worked at Aldo Group's AI Team </p>
     </td>
     <td style="vertical-align: top;">
       <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" style="width: 150px; margin-right: 20px;">
